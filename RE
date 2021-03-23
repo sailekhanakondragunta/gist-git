@@ -1,0 +1,11 @@
+<gist-git
+### this is data analysis with phyton
+- outdoor games
+1. cricket
+2. hockey
+- indoor games
+1. chess
+2. carroms
+- this is *italic word* and this is **bold word**
+- [GOOGLE](https://www.google.com)
+- this is a data:
